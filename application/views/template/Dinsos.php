@@ -42,10 +42,10 @@
                         <a class="active-menu"  href="index.html"><i class="fa fa-dashboard fa-3x"></i> Dashboard</a>
                     </li>
                     <li>
-                        <a href="ui.html"><i class="fa fa-desktop fa-3x"></i> UI Elements</a>
+                        <a href="ui.html"><i class="fa fa-desktop fa-3x"></i> Data Kelurahan</a>
                     </li>
                     <li>
-                        <a href="tab-panel.html"><i class="fa fa-qrcode fa-3x"></i> Tabs & Panels</a>
+                        <a href="tab-panel.html"><i class="fa fa-qrcode fa-3x"></i> Data User</a>
                     </li>
                     <li>
                         <a href="#"><i class="fa fa-sitemap fa-3x"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
